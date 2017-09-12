@@ -1,4 +1,5 @@
 #include<stdio.h>
-int mian(){
+int main(){
+    printf("im e:1");
     return 0;
 }
